@@ -1,4 +1,4 @@
-# 代理列表
+.# 代理列表
 
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
@@ -5835,7 +5835,6 @@ DOMAIN-SUFFIX,xn--4gq171p.com
 DOMAIN-SUFFIX,xn--9pr62r24a.com
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
 DOMAIN-SUFFIX,xn--i2ru8q2qg.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--oiq.cc
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xpdo.net
