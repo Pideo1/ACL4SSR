@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,ångströ-cn.com
 DOMAIN-SUFFIX,edu.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j-cn.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudshell.dev
+DOMAIN-SUFFIX,fit2cloud.com
 
 # CN域名直连(中国|公司|网络)
 DOMAIN-SUFFIX,cn
